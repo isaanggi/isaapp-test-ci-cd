@@ -2,7 +2,7 @@
 
 Example of CI/CD Pipelines using Github Actions with Node.js app and PostgreSQL database.
 
-![Build status](https://github.com/isaanggi/isaapp-ci-cd/actions/workflows/main.yml/badge.svg)
+![Build status](https://github.com/isaanggi/isaapp-test-ci-cd/actions/workflows/main.yml/badge.svg)
 
 ## How to Run
 
